@@ -1,0 +1,66 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+   background-color: rgb(246, 87, 7);
+   background-size: 100% 740px;
+}
+.contain{
+   width: 300px;
+   height: 400px;
+   background-color: black;
+   margin-left: 30%;
+   margin-top: 16%;
+   text-align: center;
+   color: white ;
+}
+.contain .text{
+   position: relative;
+   top: 7%;
+}
+.inp1{
+   border: none;
+   background-color: black;
+   border-bottom: 2px solid wheat;
+   width: 250px;
+   font-size: 20px;
+   margin-top: 40px;
+   outline: none;
+   color: white;
+}
+.inp2{
+   border: none;
+   background-color: black;
+   border-bottom: 2px solid wheat;
+   width: 250px;
+   font-size: 20px;
+   margin-top: 40px;
+   outline: none;
+   color: white;
+}
+p{
+   margin-top: 30px;
+   font-size: 20px;
+}
+.text button{
+   width: 250px;
+   height: 44px;
+   background-color: aqua;
+   color: black;
+   border: none;
+   font-size: 24px;
+   border-radius: 25px;
+   margin-top: 20px;
+
+}
+button:hover{
+   border: 3px solid aqua;
+   color: white;
+   font-size: 20px;
+   background-color: black;
+}
+
+p span{
+   color: aqua;
+}
